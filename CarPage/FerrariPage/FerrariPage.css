@@ -45,6 +45,17 @@
     background-color: white;    
     text-decoration: none;    
 }
+/*carTitleIntroduce */
+
+.carTitleIntroduce{
+    font-family: "YdestreetB";
+    font-size: 50px;
+    text-align: center;    
+}
+/* img */
+img{
+    width: 50%;
+}
 
 /* Ferrari_logo  */
 #Ferrari_logo{
