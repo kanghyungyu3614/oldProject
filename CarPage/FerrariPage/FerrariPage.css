@@ -1,0 +1,16 @@
+/* 전체 */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 100%;
+}
+
+
+/* Ferrari_logo  */
+#Ferrari_logo{
+    display: block;
+    margin: 0 auto;
+}
