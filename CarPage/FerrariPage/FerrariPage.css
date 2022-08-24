@@ -3,11 +3,48 @@
     margin: 0;
     padding: 0;
 }
+/* Y이드스트릿체 */
+@font-face {
+    font-family: 'YdestreetB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/YdestreetB.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
 
+/* 전체div태그 */
 #container{
     width: 100%;
 }
+/* containerTitle */
+#containerTitle{
+    font-family: "YdestreetB";
+    font-size: 70px;
+    text-align: center;
+}
+/* hover link visited active */
+#containerTitleIntroduce:hover{
+  color:black;
+  background-color: white;
+  text-decoration: none;
+}
 
+#containerTitleIntroduce:link{
+    color:black;    
+    background-color: white;   
+    text-decoration: none;     
+}
+
+#containerTitleIntroduce:visited{
+    color:black;    
+    background-color: white;    
+    text-decoration: none;    
+}
+
+#containerTitleIntroduce:active{
+    color:black;    
+    background-color: white;    
+    text-decoration: none;    
+}
 
 /* Ferrari_logo  */
 #Ferrari_logo{
