@@ -5,16 +5,29 @@
 /* Y이드스트릿체 를 사용해봤습니다. */ <br>
 <table>
  <tr>
-   <th>팀장</th>
-   <th>팀원</th>
-   <th>팀원</th>
-   <th>팀원</th>
+   <th></th>
+   <th>역할</th>
+   <th>담당</th>
 </tr>
  <tr>
    <td>강현규</td>
+   <td>팀장</td>
+   <td>페라리 페이지 작성</td>
+</tr>
+  <tr>
    <td>이종훈</td>
+   <td>팀원</td>
+   <td>포르쉐 페이지 작성</td>
+</tr>
+  <tr>
    <td>주혁</td>
+   <td>팀원</td>
+   <td>기아 페이지 작성</td>
+</tr>
+  <tr>
    <td>최윤미</td>
+   <td>팀원</td>
+   <td>포드 페이지 작성</td>
 </tr>
 </table>
  <br>
@@ -34,6 +47,8 @@
    <td>발표 준비 및<br> 17시 발표/시연</td>
 </tr>
 </table>
+ <br>
+
 
 
 
